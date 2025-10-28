@@ -52,5 +52,5 @@ Or view it live on GitHub Pages once uploaded.
 
 ⭐ *Thanks for checking out my first project!*
 
-## 📁 Folder Structure
+
 
