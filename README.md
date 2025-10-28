@@ -38,7 +38,7 @@ Or view it live on GitHub Pages once uploaded.
 -
 
 👉 [**Live Demo on GitHub Pages**](https://skycodelike.github.io/first-repo-amazon-clone/)  
-*(Replace with your actual GitHub link)*
+
 
 ---
 
