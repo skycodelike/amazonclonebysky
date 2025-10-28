@@ -180,15 +180,15 @@ li{
 	height: 310px;
 }
 .asboxsection{
-	height:861px;
-	width:100%;
+	height:auto;
+	width:auto;
 	display:flex;
 	justify-content: center;
 	
 }
 .a-section-box{
 	width:100%;
-	height:930px;
+	height:100%;
 	background-color:rgb(243, 186, 195);
 	display:flex;
 	flex-wrap:wrap;
@@ -196,10 +196,14 @@ li{
 }
 .asectionbox{
 	width:22%;
-	height: 400px;
+	height:300px;
 	background-color:#b6c9e0;
 	margin:5px;
 	padding:20px 0px 15px;
+	display:flex;
+	justify-content:center;
+	align-items: center;
+	
 }
 .basimage1{
 	background-image: url("asection_b1.webp");
@@ -398,4 +402,5 @@ ul{
 	background-color: hsl(212, 28%, 10%);
 	color:#f6f3f7;
 	border-top: 0.7px solid #575555;
+
 }
