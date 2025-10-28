@@ -213,14 +213,12 @@ li{
 }
 .basimage3{
 	background-image: url("asection_b3.jpg");
-	margin-left:2rem;
-	margin-right:2rem;
+	
 	
 }
 .basimage4{
 	background-image: url("asection_b4.jpg");
-	margin-left:2rem;
-	margin-right:2rem;
+	
 }
 .basimage5{
 	background-image: url("asection_b5.jpg");
@@ -230,8 +228,7 @@ li{
 }
 .basimage7{
 	background-image: url("asection_b7.webp");
-	margin-left:2rem;
-	margin-right:2rem;
+	
 }
 .basimage8{
 	background-image: url("asection_b8.jpg");
@@ -404,3 +401,4 @@ ul{
 	border-top: 0.7px solid #575555;
 
 }
+
